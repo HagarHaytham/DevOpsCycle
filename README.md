@@ -1,4 +1,4 @@
 # maven-project
 
 
-NOT Simple Maven Project
+very NOT Simple Maven Project
