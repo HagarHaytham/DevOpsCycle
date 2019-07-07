@@ -1,5 +1,4 @@
 # maven-project
 
 
-very NOT Simple Maven Project :D !!! >??>>Ya raaab
-....
+very NOT Simple Maven Project :D !!! 
